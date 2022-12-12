@@ -1,2 +1,2 @@
 # Memories Client
-Frontend portion of the memories project
+Frontend portion of the Memories project.
